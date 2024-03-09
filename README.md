@@ -1,2 +1,2 @@
-# ethoxford
+# ETH Oxford
 ETH Oxford Repository
