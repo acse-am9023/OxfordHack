@@ -6,8 +6,10 @@ Modelo is an iOS app that uses Etherlink rollups and machine learning to tokenis
   <img src="https://github.com/acse-am9023/ethoxford/assets/142490406/95fb7974-56ae-4cda-bb5b-33d2d05cc0ff" alt="Modelo" width="30%" height="auto"/>
 </p>
 
-## Images
+## Inspiration
+Modelo addresses the need for a secure, reliable and easy to use platform for users to transform physical assets into verifiable tokens. It reduces the gap between the physical and digital world, being the first of its kind to leverage AI to cheaply and reliably tokenise real world items into digital assets on Tezos blockchain. This opens up a range of new possibilities for users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
 
+## Images
 <p align="center">
 <img src=https://github.com/acse-am9023/ethoxford/assets/22000925/6dbaade5-08fb-48f3-93ca-10acb68d0d74 width=20% >
 <img src=https://github.com/acse-am9023/ethoxford/assets/22000925/5e85da88-842e-4f5a-ab35-f3d2268388cb width=20% >
@@ -15,15 +17,10 @@ Modelo is an iOS app that uses Etherlink rollups and machine learning to tokenis
 <img src=https://github.com/acse-am9023/ethoxford/assets/22000925/fd8637d6-c447-4490-98cf-30798e0df69c width=20% >
 </p>
 
-
-
 <p align="center">
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba" width="52%" />
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/cbd78db1-15b9-4651-b2be-c8e7b2d5f9cd" width="46%" />
 </p>
-
-## Inspiration
-Modelo addresses the need for a secure, reliable and easy to use platform for users to transform physical assets into verifiable tokens. It reduces the gap between the physical and digital world, being the first of its kind to leverage AI to cheaply and reliably tokenise real world items into digital assets on Tezos blockchain. This opens up a range of new possibilities for users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
 
 ## Team
 - Artemiy Malyshau: MSc CS and Engineering, Imperial [Connect](https://www.linkedin.com/in/artemiy-malyshau/)
