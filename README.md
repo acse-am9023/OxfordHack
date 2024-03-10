@@ -14,7 +14,7 @@ Modelo shortens the gap between the physical and digital world, being the first 
 - Artemiy Malyshau: MSc CS and Engineering, Imperial (https://www.linkedin.com/in/artemiy-malyshau/)
 - Jeevan Jutla: Previous Binance Security Engineer (https://www.linkedin.com/in/jeevan-jutla/)
 
-### Workflow
+### Workflow:
 1. The user logs in using Metamask or signs-up using Google O-Auth and Web3Auth, easily onboaring new members into the community.
 2. A user captures a photo of the real-world asset they want to upload.
 3. The NeRF neural network generates a 3D model from the object from that image.
@@ -39,7 +39,7 @@ Modelo shortens the gap between the physical and digital world, being the first 
 - JS REST API Backend
 
 
-### Future Roadmap
+### Future Roadmap:
 - Expand asset categories and improve 3D modeling accuracy and speed
 - oracles for further verification of metadata
 
