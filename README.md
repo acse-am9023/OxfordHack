@@ -51,7 +51,7 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 - Marketplace contract: To manage transactions of tokens between users [Deployed Contract](https://testnet-explorer.etherlink.com/tx/0x8d7c4dc4d99e1cef2eafae1bde8f7e942e1051404f53eca08007ccbccd554d27),[Code](https://github.com/acse-am9023/ethoxford/blob/main/web3/contracts/Marketplace.sol)
 - Web3Storage API: For IPFS storage of the generated model
 - JS REST API Backend: To manaage backend calls with the UI 
-- AWS EC2: To run the neural network on distributed GPU's to generate the model in ~45 seconds.
+- AWS EC2: To run the nerf model on distributed GPU's to generate the model in ~45 seconds.
 
 ### Etherlink
 Etherlink is an excellent fit for Modelo, as its Ethereum compatibility allows for smooth transfer of digital assets between different blockchain networks, hinting at a future with a much larger market for users. This feature means users can easily access and trade their tokenized assets in a wider blockchain ecosystem. Additionally, Etherlink's low fees make it more affordable for users to tokenize and manage their assets, encouraging broader participation. The platform's strong defense against MEV attacks and its secure, decentralized transaction system ensure that users' assets are safe and their transactions are fair and transparent. This combination of accessibility, affordability, and security makes Etherlink a smart choice for Modelo, promising an enhanced and user-friendly experience in the world of digital asset tokenization.
