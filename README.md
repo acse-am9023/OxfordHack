@@ -11,7 +11,8 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 
 ## Media
 
-Video: https://www.youtube.com/watch?v=rIvAzngzN4I 
+[![Video](https://img.youtube.com/vi/rIvAzngzN4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=rIvAzngzN4I)
+
 
 <p align="center">
 <img src=https://github.com/acse-am9023/ethoxford/assets/22000925/6dbaade5-08fb-48f3-93ca-10acb68d0d74 width=20% >
