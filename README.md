@@ -10,7 +10,7 @@ Modelo is an iOS app that uses Etherlink rollups and machine learning to tokenis
 
 
 ## Inspiration
-Modelo addresses the need for a secure, reliable and easy to use platform for users to transform physical assets into verifiable tokens. It reduces the gap between the physical and digital world, being the first of its kind to leverage AI to cheaply and reliably tokenise real world items into digital assets on Tezos blockchain. This opens up a range of new possibilities of users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
+Modelo addresses the need for a secure, reliable and easy to use platform for users to transform physical assets into verifiable tokens. It reduces the gap between the physical and digital world, being the first of its kind to leverage AI to cheaply and reliably tokenise real world items into digital assets on Tezos blockchain. This opens up a range of new possibilities for users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
 
 ## Team
 - Artemiy Malyshau: MSc CS and Engineering, Imperial (https://www.linkedin.com/in/artemiy-malyshau/)
@@ -30,14 +30,6 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 11. Users can view their assets in app, in AR and view the attached metadata.
 
 
-<p align="center">
-  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba" width="52%" />
-  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/cbd78db1-15b9-4651-b2be-c8e7b2d5f9cd" width="46%" />
-</p>
-
-
-
-
 ### How we built it:
 - NeRF Instant NGP
 - iOS Frontend with AR Kit
@@ -53,6 +45,12 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 <p align="center">
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/a22219f7-50b4-4377-9356-3dd287b23bac" alt="Arch" width="110%" height="auto"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba" width="52%" />
+  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/cbd78db1-15b9-4651-b2be-c8e7b2d5f9cd" width="46%" />
+</p>
+
 
 
 ### Future Roadmap:
