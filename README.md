@@ -7,14 +7,14 @@ Modelo is an iOS app that uses Etherlink to allow anyone to reliably and securel
 </p>
 
 
-#### Inspiration:
+### Inspiration:
 Modelo shortens the gap between the physical and digital world, being the first of its kind to leverage AI to make it easy and secure to turn real items into digital assets on Tezos blockchain. This opens up a range of new possibilities of users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
 
-#### Team:
-Artemiy Malyshau: MSc Applied Computational Science and Engineering Imperial College London https://www.linkedin.com/in/artemiy-malyshau/
-Jeevan Jutla: Previous Binance Security Engineer https://www.linkedin.com/in/jeevan-jutla/
+### Team:
+- Artemiy Malyshau: MSc Applied Computational Science and Engineering Imperial College London https://www.linkedin.com/in/artemiy-malyshau/
+- Jeevan Jutla: Previous Binance Security Engineer https://www.linkedin.com/in/jeevan-jutla/
 
-#### Workflow
+### Workflow
 1. The user logs in using Metamask or signs-up using Google O-Auth and Web3Auth, easily onboaring new members into the community.
 2. A user captures a photo of the real-world asset they want to upload.
 3. The NeRF neural network generates a 3D model from the object from that image.
@@ -28,7 +28,7 @@ Jeevan Jutla: Previous Binance Security Engineer https://www.linkedin.com/in/jee
 11. Users can view their assets in app, in AR and view the attached metadata.
 
 
-#### How we built it:
+### How we built it:
 - NeRF Instant NGP
 - iOS Frontend with AR Kit
 - Hardhat to test and deploy the smart contracts
@@ -39,7 +39,7 @@ Jeevan Jutla: Previous Binance Security Engineer https://www.linkedin.com/in/jee
 - JS REST API Backend
 
 
-#### Future Roadmap
+### Future Roadmap
 - Expand asset categories and improve 3D modeling accuracy and speed
 - oracles for further verification of metadata
 
