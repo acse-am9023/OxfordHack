@@ -42,7 +42,7 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 
 ### How we built it
 
-- Etherlink: Serves as the underlying blockchain infrastructure providing EVM compatibility, secure and affordable asset tokenization using its decentralised sequencer and low gas fees, and reliable data handling through its fair ordering and integration with the Tezos protocol.
+- Etherlink: serves as the underlying blockchain infrastructure providing EVM compatibility, secure and affordable asset tokenization using its decentralised sequencer and low gas fees, while also providing reliable data handling through its fair ordering and integration with the Tezos protocol.
 - NeRF Instant NGP: To generate a 3D model from an image  [Research Paper](https://docs.nerf.studio/nerfology/methods/instant_ngp.html), [Code](https://github.com/acse-am9023/ethoxford/tree/main/nerf)
 - iOS Frontend & AR Kit:  [Code](https://github.com/acse-am9023/ethoxford/tree/main/modelo_ios)
 - Hardhat: To test and deploy the smart contracts
