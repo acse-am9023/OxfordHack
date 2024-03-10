@@ -1,6 +1,6 @@
 # Modelo
 
-Modelo is an iOS app that uses Etherlink to reliably and securely link real world assets to the Tezos blockchain using AI generated 3D NFT's.
+Modelo is an iOS app that uses Etherlink rollups and machine learning to tokenise real world assets into 3D NFTs while providing a marketplace to view and transfer them in AR.
 
 <p align="center">
   <img src="https://github.com/acse-am9023/ethoxford/assets/142490406/95fb7974-56ae-4cda-bb5b-33d2d05cc0ff" alt="Modelo" width="30%" height="auto"/>
