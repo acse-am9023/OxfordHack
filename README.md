@@ -6,15 +6,17 @@ Modelo is an iOS app that uses Etherlink to reliably and securely link real worl
   <img src="https://github.com/acse-am9023/ethoxford/assets/142490406/95fb7974-56ae-4cda-bb5b-33d2d05cc0ff" alt="Modelo" width="30%" height="auto"/>
 </p>
 
+## Images
 
-### Inspiration:
+
+## Inspiration
 Modelo shortens the gap between the physical and digital world, being the first of its kind to leverage AI to make it easy and secure to turn real items into digital assets on Tezos blockchain. This opens up a range of new possibilities of users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
 
-### Team:
+## Team
 - Artemiy Malyshau: MSc CS and Engineering, Imperial (https://www.linkedin.com/in/artemiy-malyshau/)
 - Jeevan Jutla: Previous Binance Security Engineer (https://www.linkedin.com/in/jeevan-jutla/)
 
-### Workflow:
+## Workflow
 1. The user logs in using Metamask or signs-up using Google O-Auth and Web3Auth, easily onboaring new members into the community.
 2. A user captures a photo of the real-world asset they want to upload.
 3. The NeRF neural network generates a 3D model from the object from that image.
