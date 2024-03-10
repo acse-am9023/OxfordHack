@@ -46,6 +46,9 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 - JS REST API Backend: To manaage backend calls with the UI 
 - AWS EC2: To run the neural network on distributed GPU's to generate the model in ~45 seconds.
 
+### Etherlink:
+Etherlink is an excellent fit for Modelo, as its Ethereum compatibility allows for smooth transfer of digital assets between different blockchain networks, hinting at a future with a much larger market for users. This feature means users can easily access and trade their tokenized assets in a wider blockchain ecosystem. Additionally, Etherlink's low fees make it more affordable for users to tokenize and manage their assets, encouraging broader participation. The platform's strong defense against MEV attacks and its secure, decentralized transaction system ensure that users' assets are safe and their transactions are fair and transparent. This combination of accessibility, affordability, and security makes Etherlink a smart choice for Modelo, promising an enhanced and user-friendly experience in the world of digital asset tokenization.
+
 ### Architecture Diagram:
 
 <p align="center">
