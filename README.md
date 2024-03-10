@@ -28,7 +28,11 @@ Modelo shortens the gap between the physical and digital world, being the first 
 11. Users can view their assets in app, in AR and view the attached metadata.
 
 
-![Cube-min](https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba)
+<p align="center">
+  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba" width="50%" />
+  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/cbd78db1-15b9-4651-b2be-c8e7b2d5f9cd" width="50%" />
+</p>
+
 
 
 
