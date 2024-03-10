@@ -7,8 +7,6 @@ Modelo is an iOS app that uses Etherlink rollups and machine learning to tokenis
 </p>
 
 ## Images
-
-
 <p align="center">
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba" width="52%" />
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/cbd78db1-15b9-4651-b2be-c8e7b2d5f9cd" width="46%" />
@@ -35,7 +33,7 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 11. Users can view their assets in app, in AR and view the attached metadata.
 
 
-### How we built it:
+### How we built it
 - NeRF Instant NGP: To generate a 3D model from an image  [Research Paper](https://docs.nerf.studio/nerfology/methods/instant_ngp.html), [Code](https://github.com/acse-am9023/ethoxford/tree/main/nerf)
 - iOS Frontend & AR Kit:  [Code](https://github.com/acse-am9023/ethoxford/tree/main/modelo_ios)
 - Hardhat: To test and deploy the smart contracts
@@ -46,23 +44,23 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 - JS REST API Backend: To manaage backend calls with the UI 
 - AWS EC2: To run the neural network on distributed GPU's to generate the model in ~45 seconds.
 
-### Etherlink:
+### Etherlink
 Etherlink is an excellent fit for Modelo, as its Ethereum compatibility allows for smooth transfer of digital assets between different blockchain networks, hinting at a future with a much larger market for users. This feature means users can easily access and trade their tokenized assets in a wider blockchain ecosystem. Additionally, Etherlink's low fees make it more affordable for users to tokenize and manage their assets, encouraging broader participation. The platform's strong defense against MEV attacks and its secure, decentralized transaction system ensure that users' assets are safe and their transactions are fair and transparent. This combination of accessibility, affordability, and security makes Etherlink a smart choice for Modelo, promising an enhanced and user-friendly experience in the world of digital asset tokenization.
 
-### Architecture Diagram:
-
+### Architecture Diagram
 <p align="center">
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/a22219f7-50b4-4377-9356-3dd287b23bac" alt="Arch" width="110%" height="auto"/>
 </p>
 
-### Future Roadmap:
+### Future Roadmap
 - Improve 3D modeling accuracy and speed
 - Oracles for further verification of metadata
 - Chainlink CCIP to transfer modified ERC-721 tokens cross chain
 
 By focusing on these aspects, our solution addresses the critical challenges in asset tokenization, offering a novel, secure, and practical approach that adds significant value to the Etherlink ecosystem and beyond.
 
-### Usecases:
+### Usecases
 - Art and Collectibles: Artists and collectors can tokenize their artworks and collectibles, providing a new way to authenticate and trade these items.
 - Luxury Goods Authentication:Tokenize high-value items like luxury watches or jewelry to combat counterfeiting and prove authenticity.
 - Intellectual Property Rights: Creators can tokenize their intellectual property for easier licensing and enforcement.
+- etc.
