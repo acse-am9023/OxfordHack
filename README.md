@@ -33,7 +33,7 @@ Modelo shortens the gap between the physical and digital world, being the first 
 - iOS Frontend with AR Kit
 - Hardhat to test and deploy the smart contracts
 - Web3Auth as non-custodial way of storing private keys
-- NFT digital twin smart contrat
+- NFT digital twin smart contract
 - Marketplace contract
 - web3 storage for IPFS storage
 - JS REST API Backend
