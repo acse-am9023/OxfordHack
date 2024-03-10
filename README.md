@@ -9,7 +9,10 @@ Modelo is an iOS app that uses Etherlink rollups and machine learning to tokenis
 ## Inspiration
 Modelo addresses the need for a secure, reliable and easy to use platform for users to transform physical assets into verifiable tokens. It reduces the gap between the physical and digital world, being the first of its kind to leverage AI to cheaply and reliably tokenise real world items into digital assets on the Tezos blockchain. This opens up a range of new possibilities for users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
 
-## Images
+## Media
+
+Video: https://www.youtube.com/watch?v=rIvAzngzN4I 
+
 <p align="center">
 <img src=https://github.com/acse-am9023/ethoxford/assets/22000925/6dbaade5-08fb-48f3-93ca-10acb68d0d74 width=20% >
 <img src=https://github.com/acse-am9023/ethoxford/assets/22000925/5e85da88-842e-4f5a-ab35-f3d2268388cb width=20% >
