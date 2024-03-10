@@ -57,6 +57,7 @@
 		DA3FFE4A2B9DF88700C57BED /* rubiks_new.usdz in Resources */ = {isa = PBXBuildFile; fileRef = DA3FFE492B9DF88700C57BED /* rubiks_new.usdz */; };
 		DA3FFE4D2B9DFE4100C57BED /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = DA3FFE4C2B9DFE4100C57BED /* GoogleSignIn */; };
 		DA3FFE4F2B9DFE4100C57BED /* GoogleSignInSwift in Frameworks */ = {isa = PBXBuildFile; productRef = DA3FFE4E2B9DFE4100C57BED /* GoogleSignInSwift */; };
+		DA3FFE522B9E0D8200C57BED /* APIClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3FFE512B9E0D8200C57BED /* APIClass.swift */; };
 		DAC6256C2B9C909A00B90593 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC6256B2B9C909A00B90593 /* AppDelegate.swift */; };
 		DAC625702B9C909B00B90593 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAC6256F2B9C909B00B90593 /* Assets.xcassets */; };
 		DAC625732B9C909B00B90593 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAC625722B9C909B00B90593 /* Preview Assets.xcassets */; };
@@ -106,6 +107,7 @@
 		DA3FFE0E2B9DE3A700C57BED /* trophy.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = trophy.usdz; sourceTree = "<group>"; };
 		DA3FFE102B9DE3E100C57BED /* camera.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = camera.usdz; sourceTree = "<group>"; };
 		DA3FFE492B9DF88700C57BED /* rubiks_new.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = rubiks_new.usdz; sourceTree = "<group>"; };
+		DA3FFE512B9E0D8200C57BED /* APIClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClass.swift; sourceTree = "<group>"; };
 		DAC625682B9C909A00B90593 /* ETHOxford.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ETHOxford.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAC6256B2B9C909A00B90593 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DAC6256F2B9C909B00B90593 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -195,6 +197,7 @@
 		DA3FFE502B9E031600C57BED /* APIModel */ = {
 			isa = PBXGroup;
 			children = (
+				DA3FFE512B9E0D8200C57BED /* APIClass.swift */,
 			);
 			path = APIModel;
 			sourceTree = "<group>";
@@ -496,6 +499,7 @@
 				DA3FFDEF2B9D217300C57BED /* CameraViewModel.swift in Sources */,
 				DA3FFDF52B9D4DD100C57BED /* CategoryView.swift in Sources */,
 				DAC625972B9C9FA000B90593 /* TabBarView.swift in Sources */,
+				DA3FFE522B9E0D8200C57BED /* APIClass.swift in Sources */,
 				DAC6256C2B9C909A00B90593 /* AppDelegate.swift in Sources */,
 				DAC6259B2B9C9FDE00B90593 /* AugmentView.swift in Sources */,
 				DA3FFE092B9DB23900C57BED /* ARModel.swift in Sources */,

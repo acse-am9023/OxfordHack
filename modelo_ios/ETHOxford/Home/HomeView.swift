@@ -65,7 +65,7 @@ struct HomeView: View {
                     LazyVGrid(columns: columns_list) {
                         ItemView(imageUrl: "rocket", name: "Rocket", price: "80 XTZ")
                         ItemView(imageUrl: "pcb", name: "PCB Board", price: "50 XTZ")
-                        ItemView(imageUrl: "magic", name: "Magic Cardw", price: "20 XTZ")
+                        ItemView(imageUrl: "magic", name: "Magic Cards", price: "20 XTZ")
                         ItemView(imageUrl: "medal1", name: "Marathon Medal", price: "90 XTZ")
                         ItemView(imageUrl: "medal2", name: "Medal", price: "75 XTZ")
                     }

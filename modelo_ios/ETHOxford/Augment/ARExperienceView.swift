@@ -201,7 +201,7 @@ struct BottomSheet: View {
             
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 8) {
-                    ForEach(models) { model in
+                    ForEach(amodels) { model in
                         VStack {
                             Image(model.imageUrl)
                                 .resizable()
