@@ -40,8 +40,8 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 - iOS Frontend & AR Kit:  [Code]()
 - Hardhat: To test and deploy the smart contracts
 - Web3Auth: As non-custodial way of storing private keys for a walletless onboarding experiance.
-- NFT digital twin contract: Containing metadata and hashes to to model [TxID](https://testnet-explorer.etherlink.com/tx/0x7199d851bab83caa25ef189ab8cb6d86f60e152615937c4ce0099c90302cbe9f)
-- Marketplace contract: To manage transactions of tokens between users [TxID](https://testnet-explorer.etherlink.com/tx/0x8d7c4dc4d99e1cef2eafae1bde8f7e942e1051404f53eca08007ccbccd554d27)
+- NFT digital twin contract: Containing metadata and hashes to to model [Deployed Contract](https://testnet-explorer.etherlink.com/tx/0x7199d851bab83caa25ef189ab8cb6d86f60e152615937c4ce0099c90302cbe9f), [Code](https://github.com/acse-am9023/ethoxford/blob/main/web3/contracts/NFT.sol) 
+- Marketplace contract: To manage transactions of tokens between users [Deployed Contract](https://testnet-explorer.etherlink.com/tx/0x8d7c4dc4d99e1cef2eafae1bde8f7e942e1051404f53eca08007ccbccd554d27),[Code](https://github.com/acse-am9023/ethoxford/blob/main/web3/contracts/Marketplace.sol)
 - Web3Storage API: For IPFS storage of the generated model
 - JS REST API Backend: To manaage backend calls with the UI 
 - AWS EC2: To run the neural network on distributed GPU's to generate the model in ~45 seconds.
