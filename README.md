@@ -51,7 +51,7 @@ Modelo shortens the gap between the physical and digital world, being the first 
 ### Architecture Diagram:
 
 <p align="center">
-  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/a22219f7-50b4-4377-9356-3dd287b23bac" alt="Arch" width="90%" height="auto"/>
+  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/a22219f7-50b4-4377-9356-3dd287b23bac" alt="Arch" width="110%" height="auto"/>
 </p>
 
 
