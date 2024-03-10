@@ -7,6 +7,11 @@ Modelo is an iOS app that uses Etherlink rollups and machine learning to tokenis
 </p>
 
 ## Images
+<img src=https://github.com/acse-am9023/ethoxford/assets/22000925/6dbaade5-08fb-48f3-93ca-10acb68d0d74 width=16% height=16% >
+<img src=https://github.com/acse-am9023/ethoxford/assets/22000925/5e85da88-842e-4f5a-ab35-f3d2268388cb width=16% height=16% >
+<img src=https://github.com/acse-am9023/ethoxford/assets/22000925/5e5324b3-a8f1-491e-8751-fc7bb0bb7789 width=16% height=16% >
+<img src=https://github.com/acse-am9023/ethoxford/assets/22000925/fd8637d6-c447-4490-98cf-30798e0df69c width=16% height=16% >
+
 <p align="center">
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba" width="52%" />
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/cbd78db1-15b9-4651-b2be-c8e7b2d5f9cd" width="46%" />
