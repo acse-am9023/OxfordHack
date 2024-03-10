@@ -37,7 +37,7 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 
 ### How we built it:
 - NeRF Instant NGP: To generate a 3D model from an image  [Research Paper](https://docs.nerf.studio/nerfology/methods/instant_ngp.html), [Code](https://github.com/acse-am9023/ethoxford/tree/main/nerf)
-- iOS Frontend & AR Kit:  [Code]()
+- iOS Frontend & AR Kit:  [Code](https://github.com/acse-am9023/ethoxford/tree/main/modelo_ios)
 - Hardhat: To test and deploy the smart contracts
 - Web3Auth: As non-custodial way of storing private keys for a walletless onboarding experiance.
 - NFT digital twin contract: Containing metadata and hashes to to model [Deployed Contract](https://testnet-explorer.etherlink.com/tx/0x7199d851bab83caa25ef189ab8cb6d86f60e152615937c4ce0099c90302cbe9f), [Code](https://github.com/acse-am9023/ethoxford/blob/main/web3/contracts/NFT.sol) 
@@ -56,12 +56,13 @@ Etherlink is an excellent fit for Modelo, as its Ethereum compatibility allows f
 </p>
 
 ### Future Roadmap:
-- Expand asset categories and improve 3D modeling accuracy and speed
-- oracles for further verification of metadata
+- Improve 3D modeling accuracy and speed
+- Oracles for further verification of metadata
+- Chainlink CCIP to transfer modified ERC-721 tokens cross chain
 
 By focusing on these aspects, our solution addresses the critical challenges in asset tokenization, offering a novel, secure, and practical approach that adds significant value to the Etherlink ecosystem and beyond.
 
-Usecases:
+### Usecases:
 - Art and Collectibles: Artists and collectors can tokenize their artworks and collectibles, providing a new way to authenticate and trade these items.
 - Luxury Goods Authentication:Tokenize high-value items like luxury watches or jewelry to combat counterfeiting and prove authenticity.
 - Intellectual Property Rights: Creators can tokenize their intellectual property for easier licensing and enforcement.
