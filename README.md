@@ -48,6 +48,13 @@ Modelo shortens the gap between the physical and digital world, being the first 
 - web3 storage for IPFS storage
 - JS REST API Backend
 
+### Architecture Diagram:
+
+
+<p align="center">
+  <img src="https://github.com/acse-am9023/ethoxford/assets/142490406/95fb7974-56ae-4cda-bb5b-33d2d05cc0ff" alt="Arch" width="900%" height="auto"/>
+</p>
+
 
 ### Future Roadmap:
 - Expand asset categories and improve 3D modeling accuracy and speed
