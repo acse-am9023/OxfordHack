@@ -9,6 +9,11 @@ Modelo is an iOS app that uses Etherlink rollups and machine learning to tokenis
 ## Images
 
 
+<p align="center">
+  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba" width="52%" />
+  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/cbd78db1-15b9-4651-b2be-c8e7b2d5f9cd" width="46%" />
+</p>
+
 ## Inspiration
 Modelo addresses the need for a secure, reliable and easy to use platform for users to transform physical assets into verifiable tokens. It reduces the gap between the physical and digital world, being the first of its kind to leverage AI to cheaply and reliably tokenise real world items into digital assets on Tezos blockchain. This opens up a range of new possibilities for users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
 
@@ -31,27 +36,21 @@ Modelo addresses the need for a secure, reliable and easy to use platform for us
 
 
 ### How we built it:
-- NeRF Instant NGP:  [Research Paperl](https://docs.nerf.studio/nerfology/methods/instant_ngp.html)
-- iOS Frontend with AR Kit
-- Hardhat to test and deploy the smart contracts
-- Web3Auth as non-custodial way of storing private keys
-- NFT digital twin contract: https://testnet-explorer.etherlink.com/tx/0x7199d851bab83caa25ef189ab8cb6d86f60e152615937c4ce0099c90302cbe9f
-- Marketplace contract: https://testnet-explorer.etherlink.com/tx/0x8d7c4dc4d99e1cef2eafae1bde8f7e942e1051404f53eca08007ccbccd554d27
-- web3 storage for IPFS storage
-- JS REST API Backend
+- NeRF Instant NGP: To generate a 3D model from an image  [Research Paper](https://docs.nerf.studio/nerfology/methods/instant_ngp.html), [Code](https://github.com/acse-am9023/ethoxford/tree/main/nerf)
+- iOS Frontend & AR Kit:  [Code]()
+- Hardhat: To test and deploy the smart contracts
+- Web3Auth: As non-custodial way of storing private keys for a walletless onboarding experiance.
+- NFT digital twin contract: Containing metadata and hashes to to model https://testnet-explorer.etherlink.com/tx/0x7199d851bab83caa25ef189ab8cb6d86f60e152615937c4ce0099c90302cbe9f
+- Marketplace contract: To manage transactions of tokens between users https://testnet-explorer.etherlink.com/tx/0x8d7c4dc4d99e1cef2eafae1bde8f7e942e1051404f53eca08007ccbccd554d27
+- Web3Storage API: For IPFS storage of the generated model
+- JS REST API Backend: To manaage backend calls with the UI 
+- AWS EC2: To run the neural network on distributed GPU's to generate the model in ~45 seconds.
 
 ### Architecture Diagram:
 
 <p align="center">
   <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/a22219f7-50b4-4377-9356-3dd287b23bac" alt="Arch" width="110%" height="auto"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/83983416-3ae8-4434-b2a9-7b191a5d19ba" width="52%" />
-  <img src="https://github.com/acse-am9023/ethoxford/assets/22000925/cbd78db1-15b9-4651-b2be-c8e7b2d5f9cd" width="46%" />
-</p>
-
-
 
 ### Future Roadmap:
 - Expand asset categories and improve 3D modeling accuracy and speed
