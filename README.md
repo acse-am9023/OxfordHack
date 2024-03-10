@@ -11,7 +11,7 @@ Modelo is an iOS app that uses Etherlink to allow anyone to reliably and securel
 Modelo shortens the gap between the physical and digital world, being the first of its kind to leverage AI to make it easy and secure to turn real items into digital assets on Tezos blockchain. This opens up a range of new possibilities of users to interact with their assets in ways like never before paving the way for innovative applications in art, gaming, and beyond.
 
 ### Team:
-- Artemiy Malyshau: MSc Applied Computational Science and Engineering Imperial College London https://www.linkedin.com/in/artemiy-malyshau/
+- Artemiy Malyshau: MSc Applied CS and Engineering, Imperial College London https://www.linkedin.com/in/artemiy-malyshau/
 - Jeevan Jutla: Previous Binance Security Engineer https://www.linkedin.com/in/jeevan-jutla/
 
 ### Workflow
